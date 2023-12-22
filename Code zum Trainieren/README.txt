@@ -1,0 +1,3 @@
+Die zum Training benötigte .csv Datei zum Verwalten der Bilddaten muss exakt so augebaut sein wie die .csv Datei des von mir bereits zur Verfügung gestellten Datensatzes
+
+https://focke.sharepoint.com/:x:/r/sites/PPM-20.032-KI-Cafe/Freigegebene%20Dokumente/General/3_Arbeitspakete/AP4.2_Implementierung_KI_zur_Beurteilung_der_Schneidenqualit%C3%A4t/AP%204.2%20-%20Bilddatensatz/Bildliste.CSV?d=w913cc5a5eb8d43fab2f8368c7626d9df&csf=1&web=1&e=Sw0d6T
