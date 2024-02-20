@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+tensorflow = "*"
+numpy = "*"
+stapipy = {file = "C:/KICafe/Python/Downloads/stapipy-1.2.1-cp39-cp39-win_amd64.whl"}
+requests = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.13"
